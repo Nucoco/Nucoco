@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=radical)
 
 <!-- Repo Card -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nucoco&repo=github-readme-stats)](https://github.com/Nucoco)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nucoco&repo=Nucoco)](https://github.com/Nucoco)
 
 <!-- Language Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=JupyterNotebook)](https://github.com/Nucoco)
