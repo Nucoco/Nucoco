@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Nucoco/Nucoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- See more: https://zenn.dev/yutakatay/articles/kirakira-github-profile -->
-
+<p align="left">
+<!-- Language Card -->
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=jupyter%20notebook&layout=compact" />
+  
 <!-- Github Stats Card -->
 <!-- Color options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=radical)
-
-<!-- Language Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=jupyter%20notebook)](https://github.com/Nucoco)
-
-
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=radical" />
+</p>
