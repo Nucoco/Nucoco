@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 <!-- Color options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=radical)
 
-<!-- Repo Card -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nucoc)](https://github.com/Nucoco)
-
 <!-- Language Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=JupyterNotebook)](https://github.com/Nucoco)
 
