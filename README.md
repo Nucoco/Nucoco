@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- See more: https://zenn.dev/yutakatay/articles/kirakira-github-profile -->
-<p align="left">
-<!-- Language Card -->
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=jupyter%20notebook&theme=onedark&layout=compact" />
-  
-<!-- Github Stats Card -->
 <!-- Color options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<p align="left">
+  <!-- Language Card -->
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=jupyter%20notebook&theme=radical&layout=compact" />
+  
+  <!-- Github Stats Card -->
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=radical" />
 </p>
