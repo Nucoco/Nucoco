@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=onedark)
+<!-- See more: https://zenn.dev/yutakatay/articles/kirakira-github-profile -->
 
+<!-- Github Stats Card -->
+<!-- Color options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=radical)
+
+<!-- Language Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
