@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- See more: https://zenn.dev/yutakatay/articles/kirakira-github-profile -->
 <p align="left">
 <!-- Language Card -->
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=jupyter%20notebook&layout=compact" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=jupyter%20notebook&theme=onedark&layout=compact" />
   
 <!-- Github Stats Card -->
 <!-- Color options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
