@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nucoco&count_private=true&show_icons=true&theme=radical)
 
 <!-- Language Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=jupyternotebook)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nucoco&hide=javascript,jupyter-notebook)]
