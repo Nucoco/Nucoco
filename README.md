@@ -97,8 +97,8 @@ Here are some ideas to get you started:
 </a> -->
 <!-- <a href="https://postman.com">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-<a href="https://www.python.org"> -->
+</a> -->
+<a href="https://www.python.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 <a href="https://reactjs.org/">
@@ -125,10 +125,9 @@ Here are some ideas to get you started:
 <a href="https://www.typescriptlang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
-</a>
-<a href="https://numpy.org/">
+<!-- <a href="https://numpy.org/">
     <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
-</a>
+</a> -->
 </a>
 <a href="https://cheatography.com/davechild/cheat-sheets/regular-expressions/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OOjs_UI_icon_regular-expression-progressive.svg/1024px-OOjs_UI_icon_regular-expression-progressive.svg.png" alt="regex" width="40" height="40"/>
