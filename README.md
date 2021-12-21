@@ -113,12 +113,12 @@ Here are some ideas to get you started:
 <!-- <a href="https://sass-lang.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </a> -->
-<a href="https://scikit-learn.org/">
+<!-- <a href="https://scikit-learn.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 </a>
 <a href="https://seaborn.pydata.org/">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
+</a> -->
 <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
