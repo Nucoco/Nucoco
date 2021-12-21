@@ -134,4 +134,6 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OOjs_UI_icon_regular-expression-progressive.svg/1024px-OOjs_UI_icon_regular-expression-progressive.svg.png" alt="regex" width="40" height="40"/>
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nucoco&repo=rest-express&theme=radical)](https://github.com/Nucoco/rest-express)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nucoco&repo=rest-express&theme=dark)](https://github.com/Nucoco/rest-express)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nucoco&repo=rest-express&theme=onedark)](https://github.com/Nucoco/rest-express)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nucoco&repo=rest-express&theme=tokyonight)](https://github.com/Nucoco/rest-express)
