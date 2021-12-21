@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <!-- readme-generator especially for skill icons: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="left">Languages and Tools:</p>
